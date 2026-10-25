@@ -17,7 +17,7 @@ RESET = "\033[0m"
 
 SERVER_TEMPLATE = '''"""
 Production FastMCP Server Template
-Author: Jacky Chou (周亚杰) · FDE Applied AI Toolkit
+Author: Jacky Chou · FDE Applied AI Toolkit
 """
 
 import sys

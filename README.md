@@ -163,4 +163,4 @@ python3 -m unittest discover tests -v
 ## 📄 License
 
 Released under the [MIT License](LICENSE).  
-Copyright (c) 2026 Jacky Chou (周亚杰) · [@mikehot](https://github.com/mikehot)
+Copyright (c) 2026 Jacky Chou · [@mikehot](https://github.com/mikehot)

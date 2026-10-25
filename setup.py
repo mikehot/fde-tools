@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name="fde-tools",
     version="1.0.0",
-    author="Jacky Chou (周亚杰)",
+    author="Jacky Chou",
     author_email="mikehot668@gmail.com",
     description="Field Deployed Engineer & Applied AI Industrial Automation CLI Toolkit",
     long_description=open("README.md", encoding="utf-8").read(),

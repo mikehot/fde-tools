@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 FDE-Tools CLI Dispatcher
-Author: Jacky Chou (周亚杰) · Principal Applied AI Engineer / FDE
+Author: Jacky Chou · Principal Applied AI Engineer / FDE
 """
 
 import sys
